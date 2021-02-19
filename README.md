@@ -1,8 +1,22 @@
 # SRPN (Reverse Polish Notation Calculator)
 
-This program is a [Reverse Polish Notation Calculator](https://en.wikipedia.org/wiki/Reverse_Polish_notation) written in Java.
+This program is a [Reverse Polish Notation Calculator](https://en.wikipedia.org/wiki/Reverse_Polish_notation) written in python.
+So  `(3 − 4) × 5`, In reverse Polish notation, the former could be written `3 4 5 × −`, which unambiguously means `3 (4 5 ×) −` which reduces to `3 20 −`.
 
-#Examples: with Screenshots 
+# Symbls and actions
+
+d - prints out the stack
+
+^ - performs a powers operation. i.e 2^2 = 4
+
+(-, +, *, /) - common nemerical operators
+
+= - output the last thing on the stack
+
+\# - for commenting within the calculator
+
+
+# Examples: with Screenshots 
 
 1. 7035
 
