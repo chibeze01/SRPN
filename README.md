@@ -5,15 +5,15 @@ So  `(3 − 4) × 5`, In reverse Polish notation, the former could be written `3
 
 # Symbls and actions
 
-d - prints out the stack
+`d` - prints out the stack
 
-^ - performs a powers operation. i.e 2^2 = 4
+`^` - performs a powers operation. i.e 2^2 = 4
 
-(-, +, *, /) - common nemerical operators
+`(-, +, *, /)` - common nemerical operators
 
-= - output the last thing on the stack
+`=` - output the last thing on the stack
 
-\# - for commenting within the calculator
+`#` - for commenting within the calculator
 
 
 # Examples: with Screenshots 
